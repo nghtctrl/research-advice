@@ -13,6 +13,10 @@
 - http://joschu.net/blog/opinionated-guide-ml-research.html
 - https://www.threads.com/@nowhere_mulleonal/post/DHLH5sWyiQk
 
+## Writing Style
+
+- https://archive.blogs.harvard.edu/groundtruth/2004/10/08/three-styles-for-writing-a-paper/
+
 ## Job Search
 
 - https://cs-pui.github.io/
