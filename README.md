@@ -1,8 +1,17 @@
 # research-advice
 
+## Going to Graduate School
+
+### Why?
+
+- https://www.linkedin.com/pulse/should-i-do-phd-top-5-reasons-good-idea-rishabh-jain/
+
+### How?
+
 ## Research Style
 
 - http://joschu.net/blog/opinionated-guide-ml-research.html
+- https://www.threads.com/@nowhere_mulleonal/post/DHLH5sWyiQk
 
 ## Job Search
 
