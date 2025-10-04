@@ -8,6 +8,10 @@
 
 ### How?
 
+## Surviving in Graduate School
+
+- https://paoponder.com/blog/how-i-survived-a-phd
+
 ## Research Style
 
 - http://joschu.net/blog/opinionated-guide-ml-research.html
