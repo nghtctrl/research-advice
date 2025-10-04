@@ -1,4 +1,4 @@
-# research-advice
+# Research Advice
 
 ## Going to Graduate School
 
@@ -14,7 +14,7 @@
 
 ## Research Style
 
-- http://joschu.net/blog/opinionated-guide-ml-research.html
+- [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman [[Takeaway](./opinionated-guide-to-ml-research/README.md)]
 - https://www.threads.com/@nowhere_mulleonal/post/DHLH5sWyiQk
 
 ## Writing Style
