@@ -14,7 +14,7 @@
 
 ## Research Style
 
-- [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman [[Takeaways](./opinionated-guide-to-ml-research)]
+- [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman [[Takeaways](./opinionated-guide-to-ml-research/README.md)]
 - https://www.threads.com/@nowhere_mulleonal/post/DHLH5sWyiQk
 
 ## Writing Style
