@@ -16,7 +16,7 @@
 
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) by John Schulman [[Takeaways](./opinionated-guide-to-ml-research/README.md)]
 - [Takeaways from "Some Tips for Ph.D Students (in the field of AI)" by Jinwoo Shin](https://www.threads.com/@nowhere_mulleonal/post/DHLH5sWyiQk) by @nowhere_mulleonal
-- [How to Read a Paper by Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf)
+- [How to Read a Paper](https://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by Srinivasan Keshav
 
 ## Writing Style
 
