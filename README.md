@@ -18,9 +18,18 @@
 - [Takeaways from "Some Tips for Ph.D Students (in the field of AI)" by Jinwoo Shin](https://www.threads.com/@nowhere_mulleonal/post/DHLH5sWyiQk) by @nowhere_mulleonal
 - [How to Read a Paper](https://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) by Srinivasan Keshav
 
-## Writing Style
+## Advising Style
+
+- [Email & Communication Policy](https://ianarawjo.com/docs/email_comm_policy.pdf) by Ian Arawjo, especially on intentionally treating the official deadline as the *day before the real deadline*.
+- [Meetings and Notes](https://jkk.name/group-management/meetings-and-notes/) by Jonathan K. Kummerfeld
+
+## Writing Process
 
 - [Three Styles for Writing a Paper](https://archive.blogs.harvard.edu/groundtruth/2004/10/08/three-styles-for-writing-a-paper/) by Stuart Shieber
+- [How We Write Papers](https://docs.google.com/document/d/1kcsAVwBA7n5mnkcjgM1NSPnfs5Idm_m0T_fYUA3kfRs/edit?usp=sharing) by Juho Kim and KIXLAB members
+- [Planning Document Template](https://docs.google.com/document/d/1Plg8ozAQWvTsdX2dBIivPkcvSHdI5tGQMW-UAjw3FKU/edit?usp=sharing) by Juho Kim and KIXLAB members
+- [Reviewer Critiques (Qualitative Methods) and How to Respond to Them](https://docs.google.com/document/d/1jHiWJdkjm6Go683GIxi0tz8l-17rQQpadn9qb7zZDh4/edit?tab=t.0) by Jessica Vitak and contributors
+- [Writing Tips](https://docs.google.com/document/d/1uGyxOGdND1v1HFWzeh6t4uEM-bDVWWF2JwiwfJoisfM/edit?usp=sharing) by Rob Miller and UID members
 
 ## Job Search
 
