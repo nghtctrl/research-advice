@@ -8,7 +8,7 @@
 
 ### How?
 
-## Surviving in Graduate School
+## Thriving in Graduate School
 
 - [How I Survived a Ph.D. When I Didn’t Have a Clue](https://paoponder.com/blog/how-i-survived-a-phd) by Pao Siangliulue
 
